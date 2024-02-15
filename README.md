@@ -1,1 +1,1 @@
-# LotteryGane
+# LotteryGame
